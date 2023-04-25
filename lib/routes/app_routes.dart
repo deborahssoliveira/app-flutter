@@ -1,0 +1,35 @@
+abstract class AppRoutes {
+  static const String LOGIN = '/login';
+  static const String AUTHLOGIN = '/authlogin';
+  static const String CADASTRO = '/cadastro';
+  static const String MENU = '/menu';
+  static const String PROFILE = '/profile';
+  static const String EDITAR = '/editar';
+  static const String SAIDA = '/saida';
+  static const String CONTAS = '/contas';
+  static const String INICIOFROTA = '/iniciofrota';
+  static const String FROTACAMPOS = '/frotacampos';
+  static const String PRIMEIROCHECKLIST = '/primeirochecklist';
+  static const String SEGUNDOCHECKLIST = '/segundochecklist';
+  static const String TERCEIROCHECKLIST = '/terceirochecklist';
+  static const String QUARTOCHECKLIST = '/quartochecklist';
+  static const String QUINTOCHECKLIST = '/quintochecklist';
+  static const String INICIARARMAZEM = '/iniciararmazem';
+  static const String ARMAZEM = '/armazem';
+  static const String COMERCIAL = '/comercial';
+  static const String DASHBOARD = '/dashboard';
+  static const String DADOSCLIENTES = '/dadoscliente';
+  static const String PONTO = '/ponto';
+  static const String PONTOGESTOR = '/pontogestor';
+  static const String INICIARJORNADA = '/iniciarjornada';
+  static const String SOLICITACAO = '/solicitacao';
+  static const String GERENCIARSOLICITACAO = '/gerenciarsolic';
+  static const String CALENDARIO = '/calendario';
+  static const String FORMULARIO = '/formularioinicio';
+  static const String ABASTECIMENTO = '/abastecimento';
+  static const String INICIOASSISTENTE = '/inicioassistente';
+  static const String GARAGEM = '/garagem';
+  static const String VISTORIA = '/vistoria';
+  static const String COMPROVANTE = '/comprovante';
+  static const String GABARITO = '/gabarito';
+}
