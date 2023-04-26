@@ -1,6 +1,6 @@
 # app_deborah
 
-A new Flutter project.
+This application was originally called SGM, this is a stripped down version of modules and pages.
 
 ## Getting Started
 
